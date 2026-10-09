@@ -4,7 +4,7 @@ Minasis（GitHub: [minasis-min](https://github.com/minasis-min)）のプラグ�
 
 Dalamud設定のカスタムプラグインリポジトリへ、次のURLを追加してください。
 
-`https://raw.githubusercontent.com/minasis-min/DalamudPlugins/refs/heads/main/pluginmaster.json`
+`https://raw.githubusercontent.com/minasis-min/DalamudPlugins/main/pluginmaster.json`
 
 | Plugin | Source / releases |
 | --- | --- |
