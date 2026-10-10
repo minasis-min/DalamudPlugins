@@ -23,5 +23,30 @@
     "DownloadLinkUpdate": "https://github.com/minasis-min/PluginChatOverlay/releases/download/v1.0.1.0/PluginChatOverlay.zip",
     "LastUpdate": 1791553997,
     "Changelog": "1.0.1: 説明を更新。コマンドを/pcoverlay、設定名をプラグイン通知分離に変更。履歴の既定100件、注意文を削除。"
+  },
+  {
+    "Name": "Tooltip Extras",
+    "InternalName": "TooltipExtras",
+    "AssemblyVersion": "0.1.20.0",
+    "DalamudApiLevel": 15,
+    "Punchline": "ツールチップの追加情報を見やすく表示",
+    "Description": "アイテム・アクションの追加情報を専用パネルに表示します。価格情報の分離、収納状態・衣装セット、追加パッチの表示に対応。",
+    "ApplicableVersion": "2026.09.15.0000.0000",
+    "Tags": [
+      "tooltip",
+      "streaming"
+    ],
+    "Author": "min",
+    "RepoUrl": "https://github.com/minasis-min/TooltipExtras",
+    "IconUrl": "https://github.com/minasis-min/TooltipExtras/releases/download/v0.1.20.0/icon.png",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "CategoryTags": [
+      "UI"
+    ],
+    "DownloadLinkInstall": "https://github.com/minasis-min/TooltipExtras/releases/download/v0.1.20.0/TooltipExtras.zip",
+    "DownloadLinkUpdate": "https://github.com/minasis-min/TooltipExtras/releases/download/v0.1.20.0/TooltipExtras.zip",
+    "LastUpdate": 1791592189,
+    "Changelog": "初回公開。追加情報パネル、価格分離、収納・衣装セット、内蔵パッチ表示。設定保存先をDalamud標準に対応。"
   }
 ]
